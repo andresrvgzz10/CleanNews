@@ -1,0 +1,22 @@
+h1 {
+    color: #f15a29;
+    font-family:  Helvetica, sans-serif;
+    font-size:200%;
+    text-align: center;
+}
+
+
+body {
+    background-color: black;
+     
+}
+
+
+
+#resultado{
+	color: white;
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size:150%;
+    text-align: center;
+
+}
